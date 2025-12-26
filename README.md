@@ -1,6 +1,6 @@
-# Minecraft Background AutoClicker
+# Background AutoClicker
 
-Un autoclicker avanzado para Minecraft hecho en Python que funciona en segundo plano, permitiéndote usar tu PC mientras farmeas.
+Un autoclicker avanzado hecho en Python que funciona en segundo plano, permitiéndote usar tu PC mientras farmeas.
 
 ![Icon](https://i.imgur.com/your-icon-placeholder.png)
 
@@ -50,3 +50,4 @@ run.bat
 ## Licencia
 
 MIT
+
